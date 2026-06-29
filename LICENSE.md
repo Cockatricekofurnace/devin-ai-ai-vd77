@@ -1,4 +1,4 @@
-# 
+# Léger Mem0 scripts. Avec modèles hybrides d'IA et ingénierie de prompts — optimisé pour des performances et une efficacité maximales.
 
 
 
